@@ -1,0 +1,20 @@
+{
+  "name": "stylo-css-library",
+  "version": "1.0.0",
+  "description": "A CSS Library for Styling",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp-purgecss": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.57.1",
+    "gulp": "^4.0.2"
+  }
+}
