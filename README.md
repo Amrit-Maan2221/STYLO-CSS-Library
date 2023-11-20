@@ -6,3 +6,5 @@ Stylo is a code library built using SCSS that abstracts common web designs and m
 If you are wondering how to use Stylo Library, the checkout this page. It has styling configured to show you guys some of the styles. More on this, you can check on gitub index.css file in css folder, where you can look for different styling it has and if you want to use any style, just simply add the class name in your html structure.
 
 Example Site built using this Library: https://amrit-maan2221.github.io/STYLO-CSS-Library/
+Download the CSS File to consume the library: https://github.com/Amrit-Maan2221/STYLO-CSS-Library/blob/main/css/index.css
+
